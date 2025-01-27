@@ -8,6 +8,9 @@ Fig. 1. Overview of the proposed pre-training and fine-tuning processes for crop
 ![STCLN](https://github.com/user-attachments/assets/49e9065c-d8ac-4d8d-b2ca-499e591277ad)
 Fig. 2. The architecture of the proposed SpatioTemporal Collaborative Learning Network (STCLN).
 
+## Data preparation
+Please download the PASTIS dataset from https://zenodo.org/record/5012942. Please kindly use the data according to the instruction from https://github.com/VSainteuf/pastis-benchmark.
+Please download the MTLCC dataset from https://zenodo.org/records/5712933#.YZdpwXVKhaY for MTLCC dataset. Please kindly use the data according to https://github.com/MarcCoru/MTLCC.
 ## Implementation
 Please use finetuning_STCLN.py in MTLCC or PASTIS folder.
 
