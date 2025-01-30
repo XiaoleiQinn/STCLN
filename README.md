@@ -40,4 +40,5 @@ Fig. 3. Cross-year experiment on MTLCC dataset.
 ## Todo
 1. Increasing model'size
 2. Pretrain with larger-scale data
-3. Integrate this method with some sample generation methods, such as active learning, fuzzy clustering, and Dynamic Time Warping, etc.
+3. Extend this method to multi-source (SAR and optical) SITS data for better feature representation.
+4. Integrate this method with some sample generation methods, such as active learning, fuzzy clustering, and Dynamic Time Warping, etc.
